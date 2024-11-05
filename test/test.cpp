@@ -120,6 +120,7 @@ namespace all_tests
 		const uint32_t size = 10;
 		const double value = 1.5;
 
+
 	public:
 		TEST_METHOD(array_default_constructor)
 		{
